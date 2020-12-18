@@ -6,14 +6,14 @@ namespace ConsoleShopProject
 {
     class Candy
     {
-        public string Saldainiufirma { get; set; }
+        public string Maker { get; set; }
 
         public decimal Price { get; }
 
 
         public Candy (string name, decimal initialPrice)
         {
-            this.Saldainiufirma = name;
+            this.Maker = name;
             this.Price = initialPrice;
         }
     }
