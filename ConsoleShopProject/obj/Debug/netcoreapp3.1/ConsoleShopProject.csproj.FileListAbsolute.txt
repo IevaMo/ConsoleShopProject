@@ -1,0 +1,13 @@
+C:\Users\Ieva\source\repos\ConsoleShopProject\ConsoleShopProject\bin\Debug\netcoreapp3.1\ConsoleShopProject.exe
+C:\Users\Ieva\source\repos\ConsoleShopProject\ConsoleShopProject\bin\Debug\netcoreapp3.1\ConsoleShopProject.deps.json
+C:\Users\Ieva\source\repos\ConsoleShopProject\ConsoleShopProject\bin\Debug\netcoreapp3.1\ConsoleShopProject.runtimeconfig.json
+C:\Users\Ieva\source\repos\ConsoleShopProject\ConsoleShopProject\bin\Debug\netcoreapp3.1\ConsoleShopProject.runtimeconfig.dev.json
+C:\Users\Ieva\source\repos\ConsoleShopProject\ConsoleShopProject\bin\Debug\netcoreapp3.1\ConsoleShopProject.dll
+C:\Users\Ieva\source\repos\ConsoleShopProject\ConsoleShopProject\bin\Debug\netcoreapp3.1\ConsoleShopProject.pdb
+C:\Users\Ieva\source\repos\ConsoleShopProject\ConsoleShopProject\obj\Debug\netcoreapp3.1\ConsoleShopProject.csprojAssemblyReference.cache
+C:\Users\Ieva\source\repos\ConsoleShopProject\ConsoleShopProject\obj\Debug\netcoreapp3.1\ConsoleShopProject.AssemblyInfoInputs.cache
+C:\Users\Ieva\source\repos\ConsoleShopProject\ConsoleShopProject\obj\Debug\netcoreapp3.1\ConsoleShopProject.AssemblyInfo.cs
+C:\Users\Ieva\source\repos\ConsoleShopProject\ConsoleShopProject\obj\Debug\netcoreapp3.1\ConsoleShopProject.csproj.CoreCompileInputs.cache
+C:\Users\Ieva\source\repos\ConsoleShopProject\ConsoleShopProject\obj\Debug\netcoreapp3.1\ConsoleShopProject.dll
+C:\Users\Ieva\source\repos\ConsoleShopProject\ConsoleShopProject\obj\Debug\netcoreapp3.1\ConsoleShopProject.pdb
+C:\Users\Ieva\source\repos\ConsoleShopProject\ConsoleShopProject\obj\Debug\netcoreapp3.1\ConsoleShopProject.genruntimeconfig.cache
